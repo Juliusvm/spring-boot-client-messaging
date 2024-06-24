@@ -1,4 +1,4 @@
-package com.julius.springbootwebsocket;
+package com.julius.springbootclientmessaging;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

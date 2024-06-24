@@ -1,6 +1,6 @@
-package com.julius.springbootwebsocket.controller;
+package com.julius.springbootclientmessaging.controller;
 
-import com.julius.springbootwebsocket.model.Greeting;
+import com.julius.springbootclientmessaging.model.Greeting;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.web.bind.annotation.PostMapping;

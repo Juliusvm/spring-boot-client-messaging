@@ -1,4 +1,4 @@
-package com.julius.springbootwebsocket.model;
+package com.julius.springbootclientmessaging.model;
 
 
 public class HelloMessage {

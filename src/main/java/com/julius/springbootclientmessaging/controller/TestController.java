@@ -1,8 +1,8 @@
-package com.julius.springbootwebsocket.controller;
+package com.julius.springbootclientmessaging.controller;
 
 
-import com.julius.springbootwebsocket.model.Greeting;
-import com.julius.springbootwebsocket.model.HelloMessage;
+import com.julius.springbootclientmessaging.model.Greeting;
+import com.julius.springbootclientmessaging.model.HelloMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
