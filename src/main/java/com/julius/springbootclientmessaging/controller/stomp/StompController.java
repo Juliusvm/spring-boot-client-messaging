@@ -1,4 +1,4 @@
-package com.julius.springbootclientmessaging.controller;
+package com.julius.springbootclientmessaging.controller.stomp;
 
 
 import com.julius.springbootclientmessaging.model.Greeting;
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.util.HtmlUtils;
 
 @Controller
-public class TestController {
+public class StompController {
 
 
     @MessageMapping("/hello")

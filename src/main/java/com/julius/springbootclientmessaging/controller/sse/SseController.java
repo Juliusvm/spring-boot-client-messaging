@@ -1,4 +1,4 @@
-package com.julius.springbootclientmessaging.controller;
+package com.julius.springbootclientmessaging.controller.sse;
 
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.MediaType;

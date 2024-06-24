@@ -1,4 +1,4 @@
-package com.julius.springbootclientmessaging.controller;
+package com.julius.springbootclientmessaging.controller.stomp;
 
 import com.julius.springbootclientmessaging.model.Greeting;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.HtmlUtils;
 
 @RestController
-@RequestMapping("api")
+@RequestMapping("stomp/api")
 public class MessagingAPI {
 
     @Autowired
