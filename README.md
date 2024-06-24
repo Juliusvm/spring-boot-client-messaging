@@ -1,1 +1,1 @@
-# spring-boot-websocket
+# spring-boot-client-messaging
